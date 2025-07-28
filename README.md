@@ -1,5 +1,8 @@
 # AISpeechToTextSummary
 # SpeechToText Summary Android App
+![App Screenshot](Screenshot_20250728_234807.png)
+
+![App Screenshot](Screenshot_20250728_234825.png)
 
 ## Overview
 
